@@ -1,2 +1,2 @@
-# Excel-QR-BarCod
-An Excel Based QR-code/Bar-code generator
+# Excel-2D-Barcode
+An Excel Based two dimensional code generator
